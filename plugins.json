@@ -10,7 +10,7 @@
     "releases": [
       {
         "date": "2025-04-24",
-        "sha512sum": "809efd34c5a40a999970f8ee5bed859f9f3a537016935d87421f6f73e651af80493873d1cf5b128db39860cbc57bfe41fec7b6d3cbf8a68b828324c5826db4cf",
+        "sha512sum": "809EFD34C5A40A999970F8EE5BED859F9F3A537016935D87421F6F73E651AF80493873D1CF5B128DB39860CBC57BFE41FEC7B6D3CBF8A68B828324C5826DB4CF",
         "version": "1.0.0",
         "url": "https://github.com/tofraz/kotori-plugins-releases/raw/master/release/oaioswapper-1.0.0.jar",
         "requires": "^1.0.0"
